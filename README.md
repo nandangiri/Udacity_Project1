@@ -12,7 +12,7 @@ Wine Review Data Analysis
 No additional installations beyond the Anaconda distribution of Python and Jupyter notebooks.
 
 ### Project Motivation
-For this project I was interested in conducting exploratory data analysis using a Wine Review dataset found on Kaggle containing approximately 130k reviews from the Wine Enthusiast to better understand:
+For this project I was interested in conducting exploratory data analysis using a [Wine Review dataset] (https://www.kaggle.com/datasets/zynicide/wine-reviews) found on Kaggle containing approximately 130k reviews from the [Wine Enthusiast] (https://www.winemag.com/?s=&drink_type=wine) to better understand:
 
 - Where does the best wine in the world come from?
 - Is price related to quality?
