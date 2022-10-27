@@ -1,30 +1,27 @@
-### Udacity_Project1
-Wine Review Data Analysis
+# Deep Dive into Seattle and Boston Airbnb Data
 
-### Installations
-- NumPy
-- Pandas
-- Seaborn
-- Matplotlib
-- Wordcloud
-- Pillow
+## Brief Overview
 
-No additional installations beyond the Anaconda distribution of Python and Jupyter notebooks.
+Based on Cross-Industry Standard Process of Data Mining (CRISP-DM), the Boston and Seatle Airbnb datasets were collected and investigated.
 
-### Project Motivation
-We want to work on exploratory analysis using a Wine Review data (https://www.kaggle.com/datasets/zynicide/wine-reviews) from Kaggle having 130k reviews from the Wine Enthusiast (https://www.winemag.com/?s=&drink_type=wine) to try and understand:
+The business questions we are trying to answer:
+- What are the most important features to estimate Airbnb rental price?
+- Is there any noticeable difference between Seattle and Boston Airbnb?    
+- What are the top amenities people needs most?
 
-- Is price related to quality?
-- What is the best wine in each price bracket?
-- What words are most used when talking about wine?
+## File Description
 
-This is a great opportunity to talk about findings with a blog post on Medium which helps the reader understand and explain the questions posed.
+- A Descriptive Jupyter Notebook
+- Two datasets:
+   Detailed Listings data for Boston and Seattle.
+   Dataset Link: http://insideairbnb.com/get-the-data.html
 
-### File Descriptions
-There is ad exploratory notebook. Markdown cells are used throughout to explain the process.
+## Results of the analysis
 
-### Medium Blog Post
-The main findings of the code can be found at the Medium Blog post available here
-
-### Licensing, Authors, Acknowledgements, etc.
-Acknowledgement should go to Kaggle and zackthoutt for providing the dataset. Acknowledgement should also go to DataCamp for their excellent WordCloud tutorial.
+Results and discussion were published on Medium: [Deep Dive Into Seattle and Boston Airbnb Data](https://medium.com/@sajjadmanal/deep-dive-into-seattle-and-boston-airbnb-data-d8e6fea5eab0?sk=0834ffb85786e74bd95e5e45ffe4bf23)
+   
+In this project, I dived into the most recent Airbnb Boston and Seattle dataset and found many interesting phenomenom:
+- We gathered the Boston and Seattle Airbnb data, and compare the two dataset.
+- We established a machine learning model to predict the rental price for both cities.
+- We took a look at the feature importance of the trained model and check if they make sense.
+- We list all the important amenities to get a better feeling how host can make more money by providing better services to meet customers’ need.
