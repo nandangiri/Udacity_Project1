@@ -58,3 +58,6 @@ Some of the key findings are as below.
 5. Roxhill, Cedar Park and Pinehurst ares have the better or positive reviews
 6. University District, Holly Park and View Ridge has a slightly negative reviews
 7. We implement LinearRegression to predict price based on a prepped and cleaned dataset, with an r^2 score of 0.62 on both training and test datasets.
+
+Medium Blog Post Link: https://medium.com/@gauravnandangiri1992/understanding-the-airbnb-data-for-boston-and-seattle-locations-65e5068d9e92
+Github Link: https://github.com/nandangiri/Udacity_Project1
